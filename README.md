@@ -4,9 +4,6 @@ In this code repository you find the solutions and sample implementations for th
 
 In most cases, the solutions presented here represent just one way out of many that the exercises and challenges can be solved. If you find a better way to solve one of the exercises or challenges feel free to open an issue or pull request!
 
-## Get the Book
-
-[» Click here to learn more about the book and get your copy](https://realpython.com/products/python-basics-book/)
 
 ## Downloading the Files
 
